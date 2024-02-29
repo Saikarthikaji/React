@@ -7,4 +7,5 @@ class PureComponent1 extends PureComponent {
     }
 }
 
+// New update
 export default PureComponent1

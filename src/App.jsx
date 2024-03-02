@@ -17,11 +17,11 @@
 // import ControlledComponent from "./components/ControlledAndUncontrolledComponents/ControlledComponents";
 // // import UncontrolledComponent from "./components/ControlledAndUncontrolledComponents/UnControlledComponent";
 // import MyComponentWithUpperCase from "./components/HigherOrderComponents/MyComponentWithUpperCase";
-
+import BasicRouting from "./components/BasicRouting/BasicRouting";
 function App() {
   return (
     <>
-    
+    <BasicRouting/>
     </>
   )
 }

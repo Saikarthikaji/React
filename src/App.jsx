@@ -17,11 +17,16 @@
 // import ControlledComponent from "./components/ControlledAndUncontrolledComponents/ControlledComponents";
 // // import UncontrolledComponent from "./components/ControlledAndUncontrolledComponents/UnControlledComponent";
 // import MyComponentWithUpperCase from "./components/HigherOrderComponents/MyComponentWithUpperCase";
-import BasicRouting from "./components/BasicRouting/BasicRouting";
+// import BasicRouting from "./components/BasicRouting/BasicRouting";
+import UseEffectComponent from "./components/Hooks/Usecallback/UseEffect/UseEffectComponent";
+
+
+
+
 function App() {
   return (
     <>
-    <BasicRouting/>
+    <UseEffectComponent/>
     </>
   )
 }
